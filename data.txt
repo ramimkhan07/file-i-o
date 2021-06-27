@@ -1,0 +1,1 @@
+{"Firstname":"Rounok","Lastname":"Khan","Gender":"Male","DOB":"1999-05-22","Religion":"Hindu","Presentaddress":"dhaka","Permanentaddress":"dhaka","Phone":"01705508812","Email":"ramimkhan841@gmail.com","Username":"rounok","Password":"1234"}
